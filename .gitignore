@@ -1,12 +1,12 @@
 # dependencies
-node_modules/
+/node_modules
 
 # testing
-coverage/
+/coverage
 
 # misc
 .DS_Store
 
 dist/
-.env
+.env*
 .vscode/
